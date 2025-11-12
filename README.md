@@ -94,7 +94,7 @@ if __name__ == "__main__":
 
 - `BaseStorage`: Abstract base class for defining storage methods.
 
-##Core Functionalities
+## Core Functionalities
 1. **Initialize Memory**: Load previous interactions from the chosen storage and initialize memory.
 
 2. **Add Interaction**: Store a new interaction with its embedding, concepts, prompt, and output.
